@@ -1,0 +1,19 @@
+# Carpetas generadas por compilación
+/out/
+bin/
+build/
+
+# Archivos de Java compilados
+*.class
+
+# Archivos temporales del IDE
+*.log
+*.cache
+*.tmp
+
+# VSCode configs opcionales
+.vscode/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
